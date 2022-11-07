@@ -1,7 +1,7 @@
 # Regression Template
 
 # Importing the dataset
-dataset = read.csv('Position_Salaries.csv')
+dataset = read.csv('/home/leonardokruss/Documentos/Code/Machine_Learning_R/07 - randomForestIntuition/Position_Salaries.csv')
 dataset = dataset[2:3]
 
 # Splitting the dataset into the Training set and Test set

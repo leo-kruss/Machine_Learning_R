@@ -1,7 +1,7 @@
 #Regression Template
 
 #importing the dataset
-dataset = read.csv('')
+dataset = read.csv('/home/leonardokruss/Documentos/Code/Machine_Learning_R/04 - polynomialRegression/Position_Salaries.csv')
 dataset = dataset[2:3]
 
 #splitting the dataset into the training set and test set
